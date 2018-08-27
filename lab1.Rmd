@@ -1,0 +1,32 @@
+---
+title: "lab1"
+author: "liyong"
+date: "8/27/2018"
+output: html_document
+---
+#headr
+
+
+anything 
+
+*apple*
+
+
+* apple 
+
+the `dply` package
+```{r,include=FALSE}
+a = matrix(1:4, nrow = 2)
+
+```
+
+
+```{r}
+abc <- "c(123)"
+a
+
+print(abc)
+ggplot2::ggplot(iris)
+print(iris)
+```
+
